@@ -67,4 +67,13 @@ h2 {
     <a href="second_page.html">Go to Second Page</a>
 </footer>
 
+/* Existing styles */
+
+/* New style for centered footer */
+.centered-footer {
+    text-align: center;
+    margin-top: 20px; /* Adjust margin-top as needed */
+}
+
+
 
